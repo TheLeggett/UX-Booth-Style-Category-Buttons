@@ -1,6 +1,6 @@
 # UX Booth Style Category Buttons
 
-This demo illustrates how UX Booth uses SCSS to generate animated buttons in a way that is simple to maintain.
+This demo illustrates how [UX Booth](http://uxbooth.com/) uses SCSS to generate animated buttons in a way that is simple to maintain.
 
 ## Installation
 
