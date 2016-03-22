@@ -1,0 +1,74 @@
+// Category Colors
+$analytics-light: #e81135;
+$analytics-dark: #f29323;
+
+$business-strategy-light: #6E48AA;
+$business-strategy-dark: #9D50BB;
+
+$content-strategy-light: #f44102;
+$content-strategy-dark: #da283d;
+
+$information-architecture-light: #C04848;
+$information-architecture-dark: #480048;
+
+$interaction-design-light: #0072ff;
+$interaction-design-dark: #00c6ff;
+
+$design-philosophy-light: #7B920A;
+$design-philosophy-dark: #ADD100;
+
+$design-research-light: #02AAB0;
+$design-research-dark: #00CDAC;
+
+$resources-light: #3f4c6b;
+$resources-dark: #606c88;
+
+$universal-design-light: #AA076B;
+$universal-design-dark: #61045F;
+
+$visual-design-light: #FF8008;
+$visual-design-dark: #FFC837;
+
+// Category Color Collection
+$categories: (
+        analytics:(
+                $analytics-light,
+                $analytics-dark
+        ),
+        business-strategy: (
+                $business-strategy-light,
+                $business-strategy-dark
+        ),
+        content-strategy: (
+                $content-strategy-light,
+                $content-strategy-dark
+        ),
+        information-architecture: (
+                $information-architecture-light,
+                $information-architecture-dark
+        ),
+        interaction-design: (
+                $interaction-design-light,
+                $interaction-design-dark
+        ),
+        design-philosophy: (
+                $design-philosophy-light,
+                $design-philosophy-dark
+        ),
+        design-research: (
+                $design-research-light,
+                $design-research-dark
+        ),
+        resources: (
+                $resources-light,
+                $resources-dark
+        ),
+        universal-design: (
+                $universal-design-light,
+                $universal-design-dark
+        ),
+        visual-design: (
+                $visual-design-light,
+                $visual-design-dark
+        )
+);

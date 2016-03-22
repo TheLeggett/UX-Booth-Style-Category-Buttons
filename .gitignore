@@ -1,0 +1,8 @@
+node_modules
+.tmp
+.sass-cache
+coverage
+platforms
+plugins
+.DS_Store
+.idea
